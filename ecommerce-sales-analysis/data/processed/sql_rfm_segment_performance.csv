@@ -1,0 +1,9 @@
+Segment,Customers,Total_Revenue,Avg_Recency_Days,Avg_Frequency,Avg_Monetary,Revenue_Share_Pct
+Champions,911,5676143.38,12.85,11.5,6230.67,63.87
+At Risk,765,919286.91,154.57,3.21,1201.68,10.34
+Loyal Customers,364,817853.92,40.21,5.86,2246.85,9.2
+Potential Loyalists,484,583120.23,16.93,2.42,1204.79,6.56
+Hibernating,962,419725.82,222.85,1.0,436.31,4.72
+Other,321,276814.89,50.4,2.51,862.35,3.11
+Needs Attention,295,118063.09,53.46,1.0,400.21,1.33
+Recent Customers,236,76200.65,19.42,1.0,322.88,0.86
