@@ -123,6 +123,6 @@ ecommerce-sales-analysis/
 
 ### Author
 
-**[Sahel Sepehri]**
+**Sahel Sepehri**
 
 Data Analytics Portfolio Project
